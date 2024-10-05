@@ -6,7 +6,7 @@
 - 支持streamlit内置组件中的文本中英文切换
 
 使用方法：
-
+- `pip install streamlit_change_language`
 - `from streamlit_change_language import cst`
 - `cst.change(language='cn')`
 -   language可选项为 `en-英文, cn-中文`
